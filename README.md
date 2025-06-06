@@ -21,8 +21,7 @@ Glossário:
 # ✨| Insights
   Diante dessa análise, recomendamos o imóvel 4664 Tribute Trl, pelos
 seguintes motivos:
-● Segundo menor valor de Juros sobre o Residual atribuído às
-parcelas mensais.
+● Segundo menor valor de Juros sobre o Residual atribuído às parcelas mensais. 
 ● Maior lucro anual
 ● BreakEven em 1 ano e 6 meses.
 ● Seu Return on Investiment é de 63%
@@ -48,12 +47,14 @@ parcelas mensais.
 - Ferramenta: Google Sheets
 
 - Limpeza: Limpeza de dados nulos, substituição de caracteres incorretos nas linhas.
+
 - Preparação: Realização de métricas, KPIs, custos anuais, faturamento, lucro, ROI e entre outros.
 
 ## 🌈 | Visualização:
 
- Link do relatório: https://github.com/GuiCRG/Vaccation-Proprety-Analyses/blob/main/Relatorio%20Vaccation%20Houses%20Report.pdf
- Link da planilha: https://docs.google.com/spreadsheets/d/1S2Il_dHDzlBg0mJih3NZzsqGgfIzXKiWN9rp9j1rv8M/edit?gid=531398127#gid=531398127
+ -Link do relatório: https://github.com/GuiCRG/Vaccation-Proprety-Analyses/blob/main/Relatorio%20Vaccation%20Houses%20Report.pdf
+ 
+ -Link da planilha: https://docs.google.com/spreadsheets/d/1S2Il_dHDzlBg0mJih3NZzsqGgfIzXKiWN9rp9j1rv8M/edit?gid=531398127#gid=531398127
 
 
 <div align="center">

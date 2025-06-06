@@ -52,7 +52,7 @@ parcelas mensais.
 
 ## 🌈 | Visualização:
 
- Link do relatório: https://drive.google.com/file/d/1Y-lKb_5fKSpklCoy4P7CtgdRLuGMN6n2/view
+ Link do relatório: https://github.com/GuiCRG/Vaccation-Proprety-Analyses/blob/main/Relatorio%20Vaccation%20Houses%20Report.pdf
  Link da planilha: https://docs.google.com/spreadsheets/d/1S2Il_dHDzlBg0mJih3NZzsqGgfIzXKiWN9rp9j1rv8M/edit?gid=531398127#gid=531398127
 
 
